@@ -8,6 +8,6 @@
 
  $nome = 'Osvaldo Alves';
  $idade = 21;
-
-echo "Eu sou $nome, e tenho $idade anos!";
+ 
+ echo "Eu sou $nome, e tenho $idade anos!";
  
