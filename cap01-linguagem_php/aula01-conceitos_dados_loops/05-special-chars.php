@@ -17,4 +17,4 @@
  echo "O preço é \$" . $preco; // \$: Símbolo de dólar.
 
  echo "Hello\0world"; // \0: Caractere nulo (null byte).
- echo "\n";
+ echo "Nova linha" . PHP_EOL; // . PHP_EOL: Nova linha nativo do PHP. 
