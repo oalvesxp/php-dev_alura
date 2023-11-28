@@ -7,6 +7,19 @@ A Formação PHP é um guia de aprendizado com cursos e conteúdos para você in
 
 O PHP é uma das linguagens de programação mais utilizadas no desenvolvimento web. Por ser multi plataforma, open source, gratuita e bastante completa, a linguagem PHP conquistou o mercado e desenvolvedoras/es, tendo uma comunidade vibrante e uma evolução rápida nos últimos anos.
 
+---
+
+### Cronograma
+---
+
+Cronograma de conteúdos:
+
+* A linguagem PHP 
+    * PHP: conceitos, lidando com dados, loops e mais
+    * Avançando com PHP: Arrays, Strings, Função e Web
+
+</br>
+
 ### Versões e Dependências
 ---
 
