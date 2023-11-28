@@ -3,7 +3,7 @@
  * Created by VisualStudioCode.
  * User: oalves
  * Date: 28/11/2023
- * Description: Tipos de variáveis e dados.
+ * Description: Caracteres especiais.
  */
 
  echo "Hello world!\n"; // \n: Nova linha
